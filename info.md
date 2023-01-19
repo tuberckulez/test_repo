@@ -7,3 +7,8 @@
 * **git add** – добавить файл или файлы к следующему коммиту
 
 **TEST pull request**
+
+DZ:
+clone
+push 
+request
