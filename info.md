@@ -8,7 +8,4 @@
 
 **TEST pull request**
 
-DZ:
-clone
-push 
-request
+## New string for pull request
